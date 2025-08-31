@@ -1,0 +1,24 @@
+[
+  {
+    "tradingsymbol": "RELIANCE-EQ",
+    "symboltoken": "2885",
+    "exchange": "NSE",
+    "producttype": "INTRADAY",
+    "transactiontype": "SELL",
+    "quantity": 1,
+    "ordertype": "MARKET",
+    "duration": "DAY",
+    "ordertag": "RUN_20250826_191929"
+  },
+  {
+    "tradingsymbol": "TCS-EQ",
+    "symboltoken": "11536",
+    "exchange": "NSE",
+    "producttype": "INTRADAY",
+    "transactiontype": "BUY",
+    "quantity": 1,
+    "ordertype": "MARKET",
+    "duration": "DAY",
+    "ordertag": "RUN_20250826_191929"
+  }
+]

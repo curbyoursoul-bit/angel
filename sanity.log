@@ -1,0 +1,19 @@
+[I 250829 23:29:38 smartConnect:124] in pool
+2025-08-29 23:29:38.989 | INFO     | core.login:restore_or_login:275 - refresh generateToken transient issue (attempt 1/6)
+2025-08-29 23:29:40.149 | INFO     | core.login:restore_or_login:275 - refresh generateToken transient issue (attempt 2/6)
+2025-08-29 23:29:40.149 | WARNING  | core.login:restore_or_login:277 - Early fallback to fresh login due to repeated transient refresh errors.
+2025-08-29 23:29:40.152 | WARNING  | core.login:restore_or_login:313 - Refresh failed or skipped; falling back to fresh login. last_err=DataException("Couldn't parse the JSON response received from the server: b''")
+2025-08-29 23:29:41.195 | SUCCESS  | core.login:_fresh_login:235 - \u2705 Logged in!
+2025-08-29 23:29:41.713 | INFO     | core.strategy_registry:<module>:130 - Strategy registry ready — 14 strategy(ies) loaded.
+2025-08-29 23:29:41.858 | INFO     | strategies.atm_straddle:run:126 - NIFTY spot: 24426.85
+2025-08-29 23:29:42.222 | INFO     | utils.instruments:_read_instruments_df:89 - Loaded instruments from CSV:data\OpenAPIScripMaster.csv: rows=119209
+2025-08-29 23:29:42.764 | INFO     | utils.instruments:load_options:264 - Matched 2380 NIFTY option rows (strict).
+2025-08-29 23:29:42.764 | WARNING  | strategies.atm_straddle:run:133 - Adjusting expiry 2025-09-04 \u2192 nearest 2025-09-09
+2025-08-29 23:29:42.764 | INFO     | strategies.atm_straddle:run:138 - ATM strike: 24450
+2025-08-29 23:29:42.775 | INFO     | strategies.atm_straddle:run:147 - Lot size: 75 | Lots: 1 | Qty: 75
+2025-08-29 23:29:43.161 | WARNING  | strategies.atm_straddle:_bs_okay:115 - BS: CALL K=24450 LTP=199.15 fair\u2248350.65 dev=43% > 30%
+2025-08-29 23:29:43.161 | WARNING  | strategies.atm_straddle:_bs_okay:115 - BS: PUT K=24450 LTP=139.90 fair\u2248325.95 dev=57% > 30%
+2025-08-29 23:29:43.161 | WARNING  | strategies.atm_straddle:run:158 - BS fairness failed for ATM leg(s); proceeding due to ALLOW_BS_FALLBACK=True
+2025-08-29 23:29:43.161 | SUCCESS  | strategies.atm_straddle:run:169 - ATM Straddle OK: CE 199.15 + PE 139.90 \u2192 net\u2248\u20b925429/lot (DTE=11)
+{'ok': True, 'data': {'ltp': 199.15, 'exchange': 'NFO', 'tradingsymbol': 'NIFTY09SEP2524450CE', 'symboltoken': '40564'}, 'error': None}
+{'ok': True, 'data': {'ltp': 139.9, 'exchange': 'NFO', 'tradingsymbol': 'NIFTY09SEP2524450PE', 'symboltoken': '40565'}, 'error': None}

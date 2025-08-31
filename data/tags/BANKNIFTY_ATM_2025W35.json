@@ -1,0 +1,24 @@
+[
+  {
+    "tradingsymbol": "BANKNIFTY28AUG2555200CE",
+    "symboltoken": "66731",
+    "exchange": "NFO",
+    "producttype": "INTRADAY",
+    "transactiontype": "SELL",
+    "quantity": 35,
+    "ordertype": "LIMIT",
+    "duration": "DAY",
+    "ordertag": "BANKNIFTY_ATM_2025W35"
+  },
+  {
+    "tradingsymbol": "BANKNIFTY28AUG2555200PE",
+    "symboltoken": "66776",
+    "exchange": "NFO",
+    "producttype": "INTRADAY",
+    "transactiontype": "SELL",
+    "quantity": 35,
+    "ordertype": "LIMIT",
+    "duration": "DAY",
+    "ordertag": "BANKNIFTY_ATM_2025W35"
+  }
+]

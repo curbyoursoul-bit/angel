@@ -1,0 +1,2 @@
+python -m scripts.run_backtest --csv data\BANKNIFTY_5m.csv --timeframe 15min --strategy bollinger_breakout --bb_n 20 --bb_k 1.6 --fixed_qty 1 --atr_sl_mult 1.5 --atr_tp_mult 1.5 --fill close --session 10:00-14:45 --cooldown_bars 4 --out_png data\bollinger_breakout_1.png
+python -m scripts.run_backtest --csv data\BANKNIFTY_5m.csv --timeframe 15min --strategy bollinger_breakout --bb_n 20 --bb_k 1.6 --fixed_qty 1 --atr_sl_mult 1.5 --atr_tp_mult 2 --fill close --session 10:00-14:45 --cooldown_bars 4 --out_png data\bollinger_breakout_2.png

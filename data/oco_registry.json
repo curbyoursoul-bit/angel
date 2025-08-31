@@ -1,0 +1,2763 @@
+{
+  "OCO-BANKNIFTY28AUG2555100CE-2d33350c": {
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "BANKNIFTY28AUG2555100CE",
+      "symboltoken": "66729",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "380.44",
+      "quantity": 35,
+      "ordertag": "OCO-BANKNIFTY28AUG2555100CE-2d33350c"
+    },
+    "stop": null,
+    "target": null
+  },
+  "OCO-BANKNIFTY28AUG2555100PE-86c078c4": {
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "BANKNIFTY28AUG2555100PE",
+      "symboltoken": "66730",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "212.46",
+      "quantity": 35,
+      "ordertag": "OCO-BANKNIFTY28AUG2555100PE-86c078c4"
+    },
+    "stop": null,
+    "target": null
+  },
+  "OCO-BANKNIFTY28AUG2555100CE-7a16400b": {
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "BANKNIFTY28AUG2555100CE",
+      "symboltoken": "66729",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "383.11",
+      "quantity": 35,
+      "ordertag": "OCO-BANKNIFTY28AUG2555100CE-7a16400b"
+    },
+    "stop": null,
+    "target": null
+  },
+  "OCO-BANKNIFTY28AUG2555100PE-ed7f18f8": {
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "BANKNIFTY28AUG2555100PE",
+      "symboltoken": "66730",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "205.87",
+      "quantity": 35,
+      "ordertag": "OCO-BANKNIFTY28AUG2555100PE-ed7f18f8"
+    },
+    "stop": null,
+    "target": null
+  },
+  "OCO-NIFTY28AUG2524850CE-1b73bc24": {
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY28AUG2524850CE",
+      "symboltoken": "71968",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "143.16",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY28AUG2524850CE-1b73bc24"
+    },
+    "stop": null,
+    "target": null
+  },
+  "OCO-NIFTY28AUG2524850PE-b99548fd": {
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY28AUG2524850PE",
+      "symboltoken": "71969",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "91.51",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY28AUG2524850PE-b99548fd"
+    },
+    "stop": null,
+    "target": null
+  },
+  "OCO-NIFTY28AUG2524850CE-dc8eb119": {
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY28AUG2524850CE",
+      "symboltoken": "71968",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "143.16",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY28AUG2524850CE-dc8eb119"
+    },
+    "stop": null,
+    "target": null
+  },
+  "OCO-NIFTY28AUG2524850PE-26b29f0d": {
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY28AUG2524850PE",
+      "symboltoken": "71969",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "91.51",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY28AUG2524850PE-26b29f0d"
+    },
+    "stop": null,
+    "target": null
+  },
+  "OCO-BANKNIFTY28AUG2555100CE-8e7225e3": {
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "BANKNIFTY28AUG2555100CE",
+      "symboltoken": "66729",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "383.11",
+      "quantity": 35,
+      "ordertag": "OCO-BANKNIFTY28AUG2555100CE-8e7225e3"
+    },
+    "stop": null,
+    "target": null
+  },
+  "OCO-BANKNIFTY28AUG2555100PE-0b7b88e6": {
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "BANKNIFTY28AUG2555100PE",
+      "symboltoken": "66730",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "205.87",
+      "quantity": 35,
+      "ordertag": "OCO-BANKNIFTY28AUG2555100PE-0b7b88e6"
+    },
+    "stop": null,
+    "target": null
+  },
+  "OCO-BANKNIFTY28AUG2555100CE-b253ed5d": {
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "BANKNIFTY28AUG2555100CE",
+      "symboltoken": "66729",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "383.11",
+      "quantity": 35,
+      "ordertag": "OCO-BANKNIFTY28AUG2555100CE-b253ed5d"
+    },
+    "stop": null,
+    "target": null
+  },
+  "OCO-BANKNIFTY28AUG2555100PE-cec49d1c": {
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "BANKNIFTY28AUG2555100PE",
+      "symboltoken": "66730",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "205.87",
+      "quantity": 35,
+      "ordertag": "OCO-BANKNIFTY28AUG2555100PE-cec49d1c"
+    },
+    "stop": null,
+    "target": null
+  },
+  "OCO-NIFTY28AUG2524850CE-aa30394b": {
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY28AUG2524850CE",
+      "symboltoken": "71968",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "143.16",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY28AUG2524850CE-aa30394b"
+    },
+    "stop": null,
+    "target": null
+  },
+  "OCO-NIFTY28AUG2524850PE-1a733b6e": {
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY28AUG2524850PE",
+      "symboltoken": "71969",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "91.51",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY28AUG2524850PE-1a733b6e"
+    },
+    "stop": null,
+    "target": null
+  },
+  "OCO-NIFTY09SEP2524450CE-ccd9d02a": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-29T22:46:25",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-dd5e1ee4": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-29T22:46:25",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-4e995341": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-29T22:48:17",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-65eadee5": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-29T22:48:17",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-c77c8629": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-29T22:50:19",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-0d6bc042": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-29T22:50:19",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-1505fe88": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-29T23:11:19",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-aa3efb6a": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-29T23:11:19",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-61612458": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T00:51:47",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "193.20",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": null,
+    "target": {
+      "order_id": "0830d00d5926AO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "154.56",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T00:51:48"
+  },
+  "OCO-NIFTY09SEP2524450PE-0244fcbe": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T00:51:48",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "135.70",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": null,
+    "target": {
+      "order_id": "083026d3b6c3AO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "108.56",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T00:51:48"
+  },
+  "OCO-NIFTY09SEP2524450CE-f48e5c95": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T01:06:03",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-d2b269ae": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T01:06:08",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "135.70",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": null,
+    "target": null,
+    "notes": [],
+    "updated_at": "2025-08-30T01:06:08"
+  },
+  "OCO-NIFTY09SEP2524450CE-c1d3cbf8": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T01:24:44",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "193.20",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": null,
+    "target": null,
+    "notes": [],
+    "updated_at": "2025-08-30T01:24:45"
+  },
+  "OCO-NIFTY09SEP2524450CE-36b801bb": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T01:31:48",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "193.2",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": null,
+    "target": {
+      "order_id": "0830aadf8dceAO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "154.56",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T01:31:49"
+  },
+  "OCO-NIFTY09SEP2524450PE-1049e011": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T01:31:49",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "135.7",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": null,
+    "target": {
+      "order_id": "0830f0c10558AO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "108.56",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T01:31:49"
+  },
+  "OCO-NIFTY09SEP2524450CE-9fe5952e": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T01:37:41",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "193.2",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "08307cfdd80dAO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "234.16",
+        "triggerprice": "231.84",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "08307ec8c9ecAO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "154.56",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T01:37:42"
+  },
+  "OCO-NIFTY09SEP2524450PE-c4b8c159": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T01:37:42",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "135.7",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "083099f463a4AO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "164.47",
+        "triggerprice": "162.84",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "08306a41e82bAO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "108.56",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T01:37:42"
+  },
+  "OCO-NIFTY09SEP2524450CE-d6b2f672": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T01:47:12",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "193.20",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "083041fb5df7AO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "234.15",
+        "triggerprice": "231.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "083066d1487bAO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "154.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T01:47:12"
+  },
+  "OCO-NIFTY09SEP2524450PE-00731203": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T01:47:12",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "135.70",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "0830c069536eAO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "164.50",
+        "triggerprice": "162.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "0830894a2e68AO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "108.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T01:47:13"
+  },
+  "OCO-NIFTY09SEP2524450CE-736dfbdb": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T02:10:59",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "193.20",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "0830c1dbbf6cAO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "234.15",
+        "triggerprice": "231.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "08306b4072edAO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "154.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:11:00"
+  },
+  "OCO-NIFTY09SEP2524450PE-949e7385": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T02:11:00",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "135.70",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "0830c85a4263AO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "164.50",
+        "triggerprice": "162.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "08308f92bf8aAO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "108.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:11:00"
+  },
+  "OCO-NIFTY09SEP2524450CE-2403083e": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T02:16:23",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "193.20",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "08309eb200d5AO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "234.15",
+        "triggerprice": "231.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "0830aa6fb87dAO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "154.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:16:24"
+  },
+  "OCO-NIFTY09SEP2524450PE-ae34fb03": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T02:16:24",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "135.70",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "0830a91fc49aAO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "164.50",
+        "triggerprice": "162.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "0830916d72a5AO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "108.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:16:24"
+  },
+  "OCO-NIFTY09SEP2524450CE-61ff17e0": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T02:24:15",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "193.20",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "0830f6f5cbf5AO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "234.15",
+        "triggerprice": "231.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "0830778c169fAO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "154.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:24:16"
+  },
+  "OCO-NIFTY09SEP2524450PE-b3da1d53": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T02:24:16",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "135.70",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "0830563843baAO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "164.50",
+        "triggerprice": "162.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "0830f9ff4a00AO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "108.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:24:17"
+  },
+  "OCO-NIFTY09SEP2524450CE-7df0868e": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T02:28:53",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "193.20",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "083010bb6f4cAO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "234.15",
+        "triggerprice": "231.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "083019e6761aAO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "154.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:28:54"
+  },
+  "OCO-NIFTY09SEP2524450PE-e705281b": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T02:28:54",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "135.70",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "083005119592AO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "164.50",
+        "triggerprice": "162.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "0830a8fdb38bAO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "108.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:28:55"
+  },
+  "OCO-NIFTY09SEP2524450CE-97671558": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T02:31:06",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "193.20",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "08301d602549AO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "234.15",
+        "triggerprice": "231.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "0830559240fcAO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "154.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:31:07"
+  },
+  "OCO-NIFTY09SEP2524450PE-a308ab1a": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T02:31:07",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "135.70",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "08300a1c5a39AO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "164.50",
+        "triggerprice": "162.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "083031e0e942AO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "108.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:31:07"
+  },
+  "OCO-NIFTY09SEP2524450CE-4186ed65": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T02:32:00",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "193.20",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "0830ba5208c9AO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "234.15",
+        "triggerprice": "231.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "083056bb5ffcAO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "154.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:32:01"
+  },
+  "OCO-NIFTY09SEP2524450PE-508b8def": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T02:32:01",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "135.70",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "083062b013dfAO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "164.50",
+        "triggerprice": "162.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "08305eb912ecAO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "108.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:32:02"
+  },
+  "OCO-NIFTY09SEP2524450CE-a49f16b2": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T02:33:34",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "193.20",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "083050147bccAO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "234.15",
+        "triggerprice": "231.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "0830f1c869e9AO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "154.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:33:34"
+  },
+  "OCO-NIFTY09SEP2524450PE-b436ab7a": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T02:33:35",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "135.70",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "0830fa828f62AO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "164.50",
+        "triggerprice": "162.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "083014570b87AO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "108.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:33:35"
+  },
+  "OCO-NIFTY09SEP2524450CE-8b9c2b2e": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T02:34:35",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "193.20",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "08309a61df37AO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "234.15",
+        "triggerprice": "231.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "0830636b69e5AO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "154.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:34:36"
+  },
+  "OCO-NIFTY09SEP2524450PE-261069f0": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T02:34:36",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "135.70",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "0830b3a24933AO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "164.50",
+        "triggerprice": "162.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "08304390926eAO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "108.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:34:37"
+  },
+  "OCO-NIFTY09SEP2524450CE-238cb45c": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T02:37:45",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "193.20",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "0830c574d573AO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "234.15",
+        "triggerprice": "231.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "0830c99b640bAO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "154.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:37:46"
+  },
+  "OCO-NIFTY09SEP2524450PE-98101f6b": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T02:37:46",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "135.70",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "0830a55022fcAO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "164.50",
+        "triggerprice": "162.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "083004f936b0AO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "108.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:37:47"
+  },
+  "OCO-NIFTY09SEP2524450CE-02f47a55": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T02:49:42",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "193.20",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "0830f2ef0befAO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "234.15",
+        "triggerprice": "231.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "08304fbba4c6AO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "154.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:49:43"
+  },
+  "OCO-NIFTY09SEP2524450PE-48888aa4": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T02:49:43",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "135.70",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "0830f2d089b8AO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "164.50",
+        "triggerprice": "162.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "0830fde0efafAO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "108.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:49:44"
+  },
+  "OCO-NIFTY09SEP2524450CE-8b70c7ad": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T02:52:26",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "193.20",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "08303737c841AO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "234.15",
+        "triggerprice": "231.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "0830f0078a97AO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450CE",
+        "symboltoken": "40564",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "154.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:52:27"
+  },
+  "OCO-NIFTY09SEP2524450PE-f3804c28": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T02:52:27",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "135.70",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": {
+      "order_id": "0830ac113ecfAO",
+      "order": {
+        "variety": "STOPLOSS",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "STOPLOSS_LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "164.50",
+        "triggerprice": "162.85",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "target": {
+      "order_id": "08302eacc19aAO",
+      "order": {
+        "variety": "NORMAL",
+        "tradingsymbol": "NIFTY09SEP2524450PE",
+        "symboltoken": "40565",
+        "transactiontype": "BUY",
+        "exchange": "NFO",
+        "ordertype": "LIMIT",
+        "producttype": "INTRADAY",
+        "duration": "DAY",
+        "price": "108.55",
+        "quantity": 75,
+        "ordertag": "OCO-NIFTY09SEP25244"
+      }
+    },
+    "notes": [],
+    "updated_at": "2025-08-30T02:52:28"
+  },
+  "OCO-NIFTY09SEP2524450CE-69d20af3": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T14:22:28",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-5bc2ce2b": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T14:22:28",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-4994d616": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T14:26:40",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-5978f104": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T14:26:40",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-08950565": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T14:42:03",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-961900b3": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T14:42:03",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-7beb8483": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T15:06:40",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-f84f68b9": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T15:06:41",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-0ab815a8": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T15:10:11",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-dfdd194b": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T15:10:11",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-BANKNIFTY28AUG2554600CE-cf885b7e": {
+    "tradingsymbol": "BANKNIFTY28AUG2554600CE",
+    "created_at": "2025-08-30T15:10:23",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-BANKNIFTY28AUG2554600PE-2772aba3": {
+    "tradingsymbol": "BANKNIFTY28AUG2554600PE",
+    "created_at": "2025-08-30T15:10:23",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-HDFCBANK-EQ-5d47f27c": {
+    "tradingsymbol": "HDFCBANK-EQ",
+    "created_at": "2025-08-30T15:10:24",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-BANKNIFTY28AUG2554700CE-f17b08aa": {
+    "tradingsymbol": "BANKNIFTY28AUG2554700CE",
+    "created_at": "2025-08-30T15:10:24",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-BANKNIFTY28AUG2554700PE-8db2666e": {
+    "tradingsymbol": "BANKNIFTY28AUG2554700PE",
+    "created_at": "2025-08-30T15:10:24",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-HDFCBANK-EQ-f0ef27bb": {
+    "tradingsymbol": "HDFCBANK-EQ",
+    "created_at": "2025-08-30T15:10:26",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-BANKNIFTY28AUG2554700CE-701a5a03": {
+    "tradingsymbol": "BANKNIFTY28AUG2554700CE",
+    "created_at": "2025-08-30T15:10:26",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-BANKNIFTY28AUG2554700PE-cfc7ac5e": {
+    "tradingsymbol": "BANKNIFTY28AUG2554700PE",
+    "created_at": "2025-08-30T15:10:26",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-HDFCBANK-EQ-b43b60bf": {
+    "tradingsymbol": "HDFCBANK-EQ",
+    "created_at": "2025-08-30T15:10:26",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-BANKNIFTY28AUG2554600CE-c2467f24": {
+    "tradingsymbol": "BANKNIFTY28AUG2554600CE",
+    "created_at": "2025-08-30T15:10:26",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-BANKNIFTY28AUG2554600PE-3e281a5a": {
+    "tradingsymbol": "BANKNIFTY28AUG2554600PE",
+    "created_at": "2025-08-30T15:10:26",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-BANKNIFTY28AUG2554600CE-90142409": {
+    "tradingsymbol": "BANKNIFTY28AUG2554600CE",
+    "created_at": "2025-08-30T15:10:26",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-BANKNIFTY28AUG2554600PE-bfc797fa": {
+    "tradingsymbol": "BANKNIFTY28AUG2554600PE",
+    "created_at": "2025-08-30T15:10:26",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-BANKNIFTY28AUG2554600CE-6d563723": {
+    "tradingsymbol": "BANKNIFTY28AUG2554600CE",
+    "created_at": "2025-08-30T15:10:26",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-BANKNIFTY28AUG2554600PE-46681f71": {
+    "tradingsymbol": "BANKNIFTY28AUG2554600PE",
+    "created_at": "2025-08-30T15:10:26",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-5b2c3887": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T15:10:26",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-2bb3173f": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T15:10:26",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-abd00b1e": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T15:10:26",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-23bb073a": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T15:10:26",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-d01b1ef6": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T15:10:26",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-8736ee5e": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T15:10:26",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-34e5abd0": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T15:10:26",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-ef9f801c": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T15:10:26",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-fff9911f": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T15:10:27",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-49cf7250": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T15:10:27",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-0d3841be": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T15:10:27",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-fcf7acef": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T15:10:27",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-fdda5721": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T15:10:27",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-6b164925": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T15:10:27",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-6170ff66": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T15:10:27",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-96caad37": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T15:10:27",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-866cb74a": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T15:10:27",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-ae65b483": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T15:10:27",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-64ae2c4c": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T15:10:27",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-8d47f75e": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-30T15:10:27",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450PE-0983a884": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-30T15:10:27",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2522600CE-30415393": {
+    "tradingsymbol": "NIFTY09SEP2522600CE",
+    "created_at": "2025-08-31T21:05:04",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2522600PE-97e2b968": {
+    "tradingsymbol": "NIFTY09SEP2522600PE",
+    "created_at": "2025-08-31T21:05:04",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2522600CE-88ff8681": {
+    "tradingsymbol": "NIFTY09SEP2522600CE",
+    "created_at": "2025-08-31T21:14:56",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2522600PE-a7288248": {
+    "tradingsymbol": "NIFTY09SEP2522600PE",
+    "created_at": "2025-08-31T21:14:56",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": null,
+    "stop": null,
+    "target": null,
+    "notes": []
+  },
+  "OCO-NIFTY09SEP2524450CE-80d84754": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-31T21:20:17",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "188.05",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": null,
+    "target": null,
+    "notes": [],
+    "updated_at": "2025-08-31T21:20:17"
+  },
+  "OCO-NIFTY09SEP2524450PE-4dad6932": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-31T21:20:17",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "141.30",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": null,
+    "target": null,
+    "notes": [],
+    "updated_at": "2025-08-31T21:20:17"
+  },
+  "OCO-NIFTY09SEP2524450CE-b5040ae8": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-31T21:25:17",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "188.05",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": null,
+    "target": null,
+    "notes": [],
+    "updated_at": "2025-08-31T21:25:18"
+  },
+  "OCO-NIFTY09SEP2524450PE-6c3a8449": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-31T21:25:18",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "141.30",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": null,
+    "target": null,
+    "notes": [],
+    "updated_at": "2025-08-31T21:25:18"
+  },
+  "OCO-NIFTY09SEP2524450CE-949fc8e4": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-31T23:01:45",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "188.05",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": null,
+    "target": null,
+    "notes": [],
+    "updated_at": "2025-08-31T23:01:45"
+  },
+  "OCO-NIFTY09SEP2524450PE-39c2055c": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-31T23:01:46",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "141.30",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": null,
+    "target": null,
+    "notes": [],
+    "updated_at": "2025-08-31T23:01:46"
+  },
+  "OCO-NIFTY09SEP2524450CE-6c126711": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-31T23:06:00",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "188.05",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": null,
+    "target": null,
+    "notes": [],
+    "updated_at": "2025-08-31T23:06:00"
+  },
+  "OCO-NIFTY09SEP2524450PE-7f403f80": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-31T23:06:00",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "141.30",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": null,
+    "target": null,
+    "notes": [],
+    "updated_at": "2025-08-31T23:06:01"
+  },
+  "OCO-NIFTY09SEP2524450CE-55569d43": {
+    "tradingsymbol": "NIFTY09SEP2524450CE",
+    "created_at": "2025-08-31T23:15:03",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450CE",
+      "symboltoken": "40564",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "188.05",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": null,
+    "target": null,
+    "notes": [],
+    "updated_at": "2025-08-31T23:15:03"
+  },
+  "OCO-NIFTY09SEP2524450PE-f65d59c6": {
+    "tradingsymbol": "NIFTY09SEP2524450PE",
+    "created_at": "2025-08-31T23:15:03",
+    "closed": false,
+    "closed_reason": null,
+    "closed_at": null,
+    "primary": {
+      "variety": "NORMAL",
+      "tradingsymbol": "NIFTY09SEP2524450PE",
+      "symboltoken": "40565",
+      "transactiontype": "SELL",
+      "exchange": "NFO",
+      "ordertype": "LIMIT",
+      "producttype": "INTRADAY",
+      "duration": "DAY",
+      "price": "141.30",
+      "quantity": 75,
+      "ordertag": "OCO-NIFTY09SEP25244"
+    },
+    "stop": null,
+    "target": null,
+    "notes": [],
+    "updated_at": "2025-08-31T23:15:06"
+  }
+}

@@ -1,0 +1,14 @@
+# ops/supervisor/angel_engine.service
+[Unit]
+Description=Angel Auto Trader Engine
+After=network-online.target
+
+[Service]
+WorkingDirectory=/home/ubuntu/angel_auto_trader
+Environment="PYTHONUNBUFFERED=1"
+ExecStart=/usr/bin/python3 -m core.engine
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,46 @@
+source,tradingsymbol,symboltoken,transactiontype,price,quantity,when,tag_text
+tradebook,HDFCBANK-EQ,,SELL,1960.2,0,,
+tradebook,ICICIBANK-EQ,,SELL,1435.9,0,,
+tradebook,ICICIBANK-EQ,,BUY,1433.2,0,,
+tradebook,ICICIBANK-EQ,,SELL,1435.9,0,,
+tradebook,SBIN-EQ,,SELL,816.35,0,,
+tradebook,SBIN-EQ,,BUY,817.45,0,,
+tradebook,HDFCBANK-EQ,,SELL,1960.2,0,,
+tradebook,HDFCBANK-EQ,,SELL,1960.2,0,,
+tradebook,HDFCBANK-EQ,,SELL,1960.2,0,,
+tradebook,HDFCBANK-EQ,,BUY,1962.8,0,,
+tradebook,ICICIBANK-EQ,,SELL,1435.9,0,,
+tradebook,HDFCBANK-EQ,,SELL,1960.2,0,,
+tradebook,ICICIBANK-EQ,,SELL,1435.9,0,,
+tradebook,ICICIBANK-EQ,,SELL,1435.9,0,,
+orderbook,SBIN-EQ,3045,SELL,0.0,0,,Your order was rejected as the exchange couldn't find any counterparty and this may lead to self-trading (buying and selling under the same PAN).
+orderbook,SBIN-EQ,3045,SELL,0.0,0,,Your order was rejected as the exchange couldn't find any counterparty and this may lead to self-trading (buying and selling under the same PAN).
+orderbook,SBIN-EQ,3045,SELL,0.0,0,,Your order was rejected as the exchange couldn't find any counterparty and this may lead to self-trading (buying and selling under the same PAN).
+orderbook,SBIN-EQ,3045,SELL,0.0,0,,Your order was rejected as the exchange couldn't find any counterparty and this may lead to self-trading (buying and selling under the same PAN).
+orderbook,SBIN-EQ,3045,SELL,0.0,0,,Your order was rejected as the exchange couldn't find any counterparty and this may lead to self-trading (buying and selling under the same PAN).
+orderbook,ICICIBANK-EQ,4963,SELL,1435.9,1,,66d7cc5c-956c-4fbe-9aae-86546de7568b
+orderbook,HDFCBANK-EQ,1333,SELL,1960.2,1,,73123128-3dbd-4658-aed1-af70cb5fd010
+orderbook,HDFCBANK-EQ,1333,SELL,1960.2,1,,48eedd76-bf07-49b1-b23e-13d9cae2451a
+orderbook,ICICIBANK-EQ,4963,SELL,1435.9,1,,a0bb94c6-3289-47f6-b312-22617f8142e3
+orderbook,ICICIBANK-EQ,4963,SELL,1435.9,1,,1ce4fdac-41b9-4602-95b3-4856ac0271d8
+orderbook,ICICIBANK-EQ,4963,SELL,1435.9,1,,63b2bd55-564d-4745-8f43-b232b8f5c7de
+orderbook,HDFCBANK-EQ,1333,SELL,1960.2,1,,25bb8dca-8954-4f52-83d9-68f7404be304
+orderbook,HDFCBANK-EQ,1333,SELL,1960.2,1,,69b0eed3-a168-48f2-a6d9-e112de6b1a29
+orderbook,SBIN-EQ,3045,BUY,817.45,1,,209ee452-93a7-4438-a5e9-f3ac8a099d7a
+orderbook,ICICIBANK-EQ,4963,SELL,1435.9,1,,da46a3bb-b754-4567-960b-68f3bae3b68a
+orderbook,HDFCBANK-EQ,1333,SELL,1960.2,1,,224ed096-e2f4-448d-aa50-ea58707104c1
+orderbook,BANKNIFTY28AUG2555100PE,66730,SELL,0.0,0,,Your order has been rejected due to Insufficient Funds. Available funds - Rs. 7942.78. You require Rs. 252107.82 funds to execute this order.
+orderbook,BANKNIFTY28AUG2555100CE,66729,SELL,0.0,0,,Your order has been rejected due to Insufficient Funds. Available funds - Rs. 7942.78. You require Rs. 260140.13 funds to execute this order.
+orderbook,BANKNIFTY28AUG2555200PE,66776,SELL,0.0,0,,Your order has been rejected due to Insufficient Funds. Available funds - Rs. 7942.78. You require Rs. 255329.95 funds to execute this order.
+orderbook,BANKNIFTY28AUG2555200CE,66731,SELL,0.0,0,,Your order has been rejected due to Insufficient Funds. Available funds - Rs. 7942.78. You require Rs. 256401.27 funds to execute this order.
+orderbook,BANKNIFTY28AUG2555200CE,66731,BUY,0.0,0,,Your order has been rejected due to Insufficient Funds. Available funds - Rs. 7942.78. You require Rs. 13141.37 funds to execute this order.
+orderbook,BANKNIFTY28AUG2555200PE,66776,BUY,0.0,0,,Your order has been rejected due to Insufficient Funds. Available funds - Rs. 7942.78. You require Rs. 9948.88 funds to execute this order.
+orderbook,BANKNIFTY28AUG2555200PE,66776,BUY,0.0,0,,Your order has been rejected due to Insufficient Funds. Available funds - Rs. 7942.78. You require Rs. 9978.62 funds to execute this order.
+orderbook,BANKNIFTY28AUG2555200CE,66731,BUY,0.0,0,,Your order has been rejected due to Insufficient Funds. Available funds - Rs. 7942.78. You require Rs. 13136.06 funds to execute this order.
+orderbook,BANKNIFTY28AUG2555200PE,66776,BUY,0.0,0,,Your order has been rejected due to Insufficient Funds. Available funds - Rs. 7942.78. You require Rs. 9936.57 funds to execute this order.
+orderbook,BANKNIFTY28AUG2555200CE,66731,BUY,0.0,0,,Your order has been rejected due to Insufficient Funds. Available funds - Rs. 7942.78. You require Rs. 13178.12 funds to execute this order.
+orderbook,BANKNIFTY28AUG2555200PE,66776,BUY,0.0,0,,Your order has been rejected due to Insufficient Funds. Available funds - Rs. 7942.78. You require Rs. 9410.19 funds to execute this order.
+orderbook,BANKNIFTY28AUG2555200CE,66731,BUY,0.0,0,,Your order has been rejected due to Insufficient Funds. Available funds - Rs. 7942.78. You require Rs. 13794.16 funds to execute this order.
+orderbook,SBIN-EQ,3045,SELL,816.35,1,,1756115283-721715-OMSYS1-nest_rs@ANGMUMGPXPROD13
+orderbook,HDFCBANK-EQ,1333,BUY,1962.8,5,,1756115283-721757-OMSYS1-nest_rs@ANGMUMGPXPROD13
+orderbook,ICICIBANK-EQ,4963,BUY,1433.2,5,,1756115283-721740-OMSYS1-nest_rs@ANGMUMGPXPROD13
